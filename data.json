@@ -1,0 +1,138 @@
+{
+ "v": 1,
+ "projects": [
+  {
+   "id": "p1",
+   "name": "ADIA",
+   "color": 0
+  },
+  {
+   "id": "p2",
+   "name": "MPAMA",
+   "color": 1
+  }
+ ],
+ "tasks": [
+  {
+   "id": "t1",
+   "project": "p1",
+   "name": "Elaborar la estructura del informe",
+   "start": "2026-10-19",
+   "end": "2026-10-19",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t2",
+   "project": "p1",
+   "name": "Se solicitó un trabajo adicional: adaptar una propuesta económica",
+   "start": "2026-10-19",
+   "end": "2026-10-19",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t3",
+   "project": "p1",
+   "name": "Identificar polígono en QGIS",
+   "start": "2026-10-19",
+   "end": "2026-10-19",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t4",
+   "project": "p1",
+   "name": "Identificar las estaciones meteorológicas de la zona (de 2 a 3), tomando de referencia las estaciones utilizadas con anterioridad",
+   "start": "2026-10-19",
+   "end": "2026-10-20",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t5",
+   "project": "p1",
+   "name": "Armar la parte de mapas de geología, geomorfología, uso actual de suelo, CUM, entre otros; tomar de referencia los IGAs previos",
+   "start": "2026-10-20",
+   "end": "2026-10-21",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t6",
+   "project": "p1",
+   "name": "Armar calidad ambiental a partir de monitoreos ambientales; verificar si existe un avance previo y anexo",
+   "start": "2026-10-22",
+   "end": "2026-10-26",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t7",
+   "project": "p1",
+   "name": "Línea base social - Censo 2025",
+   "start": "2026-10-27",
+   "end": "2026-10-28",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t8",
+   "project": "p2",
+   "name": "Elaborar la estructura del informe",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t9",
+   "project": "p2",
+   "name": "Identificar polígono en QGIS",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t10",
+   "project": "p2",
+   "name": "Identificar las estaciones meteorológicas de la zona (de 2 a 3), tomando de referencia las estaciones utilizadas con anterioridad",
+   "start": "2026-10-27",
+   "end": "2026-10-28",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t11",
+   "project": "p2",
+   "name": "Armar la parte de mapas de geología, geomorfología, uso actual de suelo, CUM, entre otros; tomar de referencia los IGAs previos",
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t12",
+   "project": "p2",
+   "name": "Armar calidad ambiental a partir de monitoreos ambientales; verificar si existe un avance previo y culminar con anexos",
+   "start": "2026-10-30",
+   "end": "2026-11-03",
+   "progress": 0,
+   "doneOn": null
+  },
+  {
+   "id": "t13",
+   "project": "p2",
+   "name": "Línea base social - Censo 2025",
+   "start": "2026-11-04",
+   "end": "2026-11-05",
+   "progress": 0,
+   "doneOn": null
+  }
+ ],
+ "settings": {
+  "days": "lv"
+ },
+ "history": {}
+}
