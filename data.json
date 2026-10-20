@@ -18,7 +18,7 @@
    "project": "p1",
    "name": "Elaborar la estructura del informe",
    "start": "2026-10-19",
-   "end": "2026-10-19",
+   "end": "2026-10-20",
    "progress": 100,
    "doneOn": "2026-10-20"
   },
@@ -27,7 +27,7 @@
    "project": "p1",
    "name": "Se solicitó un trabajo adicional: adaptar una propuesta económica",
    "start": "2026-10-19",
-   "end": "2026-10-19",
+   "end": "2026-10-20",
    "progress": 100,
    "doneOn": "2026-10-20"
   },
@@ -136,11 +136,11 @@
  },
  "history": {
   "p1": {
-   "2026-10-20": 29.2
+   "2026-10-20": 39.3
   },
   "p2": {
    "2026-10-20": 0
   }
  },
- "updatedAt": 1792514232399
+ "updatedAt": 1792514345477
 }
