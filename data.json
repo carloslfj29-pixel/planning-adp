@@ -19,8 +19,8 @@
    "name": "Elaborar la estructura del informe",
    "start": "2026-10-19",
    "end": "2026-10-19",
-   "progress": 0,
-   "doneOn": null
+   "progress": 100,
+   "doneOn": "2026-10-20"
   },
   {
    "id": "t2",
@@ -28,8 +28,8 @@
    "name": "Se solicitó un trabajo adicional: adaptar una propuesta económica",
    "start": "2026-10-19",
    "end": "2026-10-19",
-   "progress": 0,
-   "doneOn": null
+   "progress": 100,
+   "doneOn": "2026-10-20"
   },
   {
    "id": "t3",
@@ -37,8 +37,8 @@
    "name": "Identificar polígono en QGIS",
    "start": "2026-10-19",
    "end": "2026-10-19",
-   "progress": 0,
-   "doneOn": null
+   "progress": 100,
+   "doneOn": "2026-10-20"
   },
   {
    "id": "t4",
@@ -46,7 +46,7 @@
    "name": "Identificar las estaciones meteorológicas de la zona (de 2 a 3), tomando de referencia las estaciones utilizadas con anterioridad",
    "start": "2026-10-19",
    "end": "2026-10-20",
-   "progress": 0,
+   "progress": 25,
    "doneOn": null
   },
   {
@@ -136,11 +136,11 @@
  },
  "history": {
   "p1": {
-   "2026-10-20": 0
+   "2026-10-20": 29.2
   },
   "p2": {
    "2026-10-20": 0
   }
  },
- "updatedAt": 1792514176500
+ "updatedAt": 1792514195046
 }
